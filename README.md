@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f4mes22481
-- 👀 I’m interested in Front End and programing
+- 👀 I’m interested in Front End programing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project related to front end
 - 📫 How to reach me just email or message
